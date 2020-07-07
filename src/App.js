@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <button style={{backgroundColor: color}} onClick={handleOnClick}>Change color!</button>  
+        <button style={{backgroundColor: color}} onClick={handleOnClick}>Change my color!</button>  
       </header>
     </div>
   );
